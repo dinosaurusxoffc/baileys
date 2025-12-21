@@ -1,4 +1,4 @@
-# <div align='center'>WhatsApp Web API - Modified by JKT48Connect</div>
+# <div align='center'>WhatsApp Web API - Modified by Dinosaurus</div>
 
 <div align='center'>
 
